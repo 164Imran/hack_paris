@@ -1,0 +1,11 @@
+{
+  "data_root": "/Users/felixbos/WorkSpace/PersoWorkSpace/hack_paris/data/ehl-paris-medical-image-retrieval",
+  "train_pairs_csv": "data/ehl-paris-medical-image-retrieval/dataset1/train_pairs.csv",
+  "image_size": 96,
+  "slice_step": 5,
+  "max_slices": 32,
+  "dtype": "uint8",
+  "num_images": 1454,
+  "num_train_pairs": 350,
+  "prediction_sets": 6
+}

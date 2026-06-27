@@ -1,4 +1,11 @@
 *.pt
 *.pth
 *.ckpt
-
+*.npz
+*.npy
+*.npi
+artifacts/
+data/ehl-paris-medical-image-retrieval/
+.DS_Store
+__pycache__/
+*.pyc

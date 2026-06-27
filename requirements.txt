@@ -5,3 +5,5 @@ pandas
 matplotlib
 scikit-learn
 jupyter
+nibabel
+websocket-client
